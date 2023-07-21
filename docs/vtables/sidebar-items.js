@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["vtable_custom_data","vtable_custom_data_mut","vtable_mutation_guard","vtable_read_guard"],"trait":["VTableAccessor","VirtualClass"]};

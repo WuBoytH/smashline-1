@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["install_acmd_script","install_basic_line_callback","install_basic_status_script","install_one_arg_line_callback","install_one_arg_status_script","install_two_arg_line_callback","install_two_arg_status_script"]};

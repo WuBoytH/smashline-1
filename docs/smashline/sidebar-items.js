@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"attr":["acmd","line","status","unwindable"],"enum":["Acmd","LuaConst","Priority","StatusLine","StringFFIError"],"mod":["api"],"struct":["Hash40","L2CAgentBase","L2CFighterBase","L2CValue","StringFFI","Variadic"],"trait":["AsHash40","IntoLuaConst"]};
